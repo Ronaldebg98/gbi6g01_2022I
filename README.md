@@ -2,11 +2,16 @@
 
 # EXAMEN DE MEDIO SEMESTRE
 ## DATOS PERSONALES
-
-
+## Ronald Bazantes
+## Edad: 23
+## CI: 0301948873
+## Cell: 0999309839
 ## CARACTERÍSTICAS DEL EQUIPO
- 
-
+ Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz   2.59 GHz
+Windows 11 Pro
+Versión 21H2
 ## PROGRAMAS UTILIZADOS 
-
+Gitbash
+Nano
+Github
 
